@@ -1,5 +1,5 @@
 
-# HelloGluon CI
+# HelloGluon CI v1
 
 This sample shows how to automatically build a Gluon Application using Github Actions.
 
